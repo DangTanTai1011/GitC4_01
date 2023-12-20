@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitapGit", "BaitapGit\BaitapGit.csproj", "{EDDEE5B2-F7F5-48C3-8B46-B5ECF2738F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDDEE5B2-F7F5-48C3-8B46-B5ECF2738F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDEE5B2-F7F5-48C3-8B46-B5ECF2738F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDEE5B2-F7F5-48C3-8B46-B5ECF2738F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDEE5B2-F7F5-48C3-8B46-B5ECF2738F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD759081-C92B-4AC9-B390-B60F42D8E563}
+	EndGlobalSection
+EndGlobal
